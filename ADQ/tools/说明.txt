@@ -1,0 +1,8 @@
+offline_calMetrics_out1_2classes_adq1.py 篡改脱敏视为一类计算总体定位指标
+
+best_thres_out1_2classes_ADQ1.py 篡改脱敏视为一类计算总体定位最优阈值下的指标
+
+offline_calMetrics_out1_2classes_adq1_SplitMetrics.py 篡改脱敏视为一类，单独计算篡改定位指标
+
+offline_calMetrics_out1_2classes_OrigMosaicOneKind_adq1.py 原始脱敏视为一类，篡改为另一类计算篡改定位指标
+
